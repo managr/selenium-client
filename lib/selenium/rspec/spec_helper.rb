@@ -1,5 +1,5 @@
 require 'rubygems'
-require 'spec'
+require 'rspec'
 require 'base64'
 require 'fileutils'
 require File.expand_path(File.dirname(__FILE__) + "/rspec_extensions")
